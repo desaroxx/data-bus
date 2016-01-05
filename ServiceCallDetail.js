@@ -62,7 +62,6 @@
 		};
 
 		this.postData = function() {
-			console.log('this.data:', this.data);
 			this.data = { 
 				title: 'Change Oil Filter',
 				businessPartner: {
